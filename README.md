@@ -1,5 +1,6 @@
 # project-bouncing-ball
-An animation of a bouncing ball written in golang
+
+### An animation of a bouncing ball written in golang ###
 
 ## How to run
 
@@ -11,10 +12,14 @@ An animation of a bouncing ball written in golang
 
 3. Now, run the make command to build
 
->make build
+```
+make build
+```
 
 4. This will create a executable at >~/bin/project-bouncing-ball. 
 
 5. Now, run the below command.
 
->make run.
+```
+make run.
+```
