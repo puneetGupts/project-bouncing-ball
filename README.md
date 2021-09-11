@@ -4,7 +4,7 @@
 
 ## How to run
 
-**Pre-requisite** - make sure you have go installed on your local machine for binary to work. Use [link](https://golang.org/doc/install?download=go1.14.4.darwin-amd64.pkg) for download & install instructions.
+**Pre-requisite** - make sure you have ```go``` installed on your local machine for binary to work. Use [link](https://golang.org/doc/install?download=go1.14.4.darwin-amd64.pkg) for download & install instructions.
 
 1. Pull the latest version of the repository on your local machine
 
