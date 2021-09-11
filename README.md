@@ -1,10 +1,10 @@
 # project-bouncing-ball
 
-### An animation of a bouncing ball written in golang ### .
+### An animation of a bouncing ball written in golang .
 
 ## Usage
 
-### data-gatherer can be invoked manually using command line. ###
+data-gatherer can be invoked manually using command line.
 
 ## How to run
 
