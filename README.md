@@ -4,7 +4,7 @@
 
 ## Usage
 
-data-gatherer can be invoked manually using command line.
+This project can be invoked manually using command line.
 
 ## How to run
 
